@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stewheart123
-- 👀 I’m interested in ... Unity Game Development
-- 🌱 I’m currently learning ... Photon PUN
-- 💞️ I’m looking to collaborate on ... any VR or crypto gaming project built in Unity
+- 👀 I’m interested in ... Solidity + React
+- 🌱 I’m currently learning ... Ethers.js
+- 💞️ I’m looking to collaborate on ... anything Web3
 - 📫 How to reach me ... https://www.linkedin.com/in/stewart-tuckwood-522808184/
 
 <!---

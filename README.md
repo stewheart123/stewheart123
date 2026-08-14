@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stewheart123
-- 👀 I’m interested in ... Solidity + React
-- 🌱 I’m currently learning ... Ethers.js
-- 💞️ I’m looking to collaborate on ... anything Web3
+- 👀 I’m interested in ... Slot games
+- 🌱 I’m currently learning ... Pixel art
+- 💞️ I’m looking to collaborate on ... anything slot related
 - 📫 How to reach me ... https://www.linkedin.com/in/stewart-tuckwood-522808184/
 
 <!---
